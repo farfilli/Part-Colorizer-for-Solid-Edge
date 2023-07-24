@@ -2,7 +2,7 @@
 
 Still a work in progress
 
-<img src="Main Form.png">
+<img src="MainForm.png">
 
 **Fast Mode (Create FaceStyles but don't apply to faces):** With this option checked the FaceStyles created during faces parsing will not be applied to the related faces
 

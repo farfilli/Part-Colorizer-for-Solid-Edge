@@ -8,7 +8,7 @@ Public Class Form_PartColorizer
         Dim objApp As SolidEdgeFramework.Application
 
         Try
-            objApp = SolidEdgeCommunity.SolidEdgeUtils.Connect(False, True)
+            objApp = GetObject(, "SolidEdge.Application")
         Catch ex As Exception
             MsgBox("Solid Edge must be running")
             End
@@ -66,7 +66,7 @@ Public Class Form_PartColorizer
         Dim objApp As SolidEdgeFramework.Application
 
         Try
-            objApp = SolidEdgeCommunity.SolidEdgeUtils.Connect(False, True)
+            objApp = GetObject(, "SolidEdge.Application")
         Catch ex As Exception
             MsgBox("Solid Edge must be running")
             End

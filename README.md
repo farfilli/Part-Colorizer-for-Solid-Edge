@@ -1,4 +1,4 @@
-# Part-Colorizer-for-Solid-Edge
+# Part Colorizer for Solid Edge
 
 The scope of this tool is to create FaceStyles for an imported file.
 All the faces in all the design bodies in the part are parsed with the help of the method Face.GetRGBAVals a new FaceStyle is created

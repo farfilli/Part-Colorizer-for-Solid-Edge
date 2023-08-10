@@ -86,7 +86,7 @@ Public Class Form_PartColorizer
 
         End Select
 
-        Dim objPart As SolidEdgePart.PartDocument = objApp.ActiveDocument
+        Dim objPart As Object = objApp.ActiveDocument
         Dim tmpName As String = objPart.FullName
 
 

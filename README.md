@@ -11,6 +11,8 @@ Still a work in progress
 
 **Fast Mode (Create FaceStyles but don't apply to faces):** With this option checked the FaceStyles created during faces parsing will not be applied to the related faces
 
+Releases here: https://github.com/farfilli/Part-Colorizer-for-Solid-Edge/releases
+
 ToDo: Investigate why performances slow down while applying FaceStyles to faces
 - Open in background doesn't speed up the process
 - Application.Interactive to false doesn't speed up the process

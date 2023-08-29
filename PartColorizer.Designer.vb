@@ -80,7 +80,7 @@ Partial Class Form_PartColorizer
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.Name = "Form_PartColorizer"
-        Me.Text = "Part Colorizer"
+        Me.Text = "Part Colorizer v0.1"
         Me.StatusStrip1.ResumeLayout(False)
         Me.StatusStrip1.PerformLayout()
         Me.ResumeLayout(False)
